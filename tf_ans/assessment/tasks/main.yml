@@ -1,0 +1,5 @@
+---
+# tasks file for demo
+# tasks file for yum repo setup
+- name: setting up
+  script: scripts.sh
